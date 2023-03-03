@@ -1,5 +1,8 @@
 # image-helper
-Single image helper class in PHP for resize the image, getting information of image.
+Single class PHP for image helper.  
+Main feature:
+- Resize the image.
+- Getting information of image.
 
 ## Basic usage
 If you have a image at 'upload/image1.jpg' with: width=1000px, height=1200px.  
@@ -11,3 +14,6 @@ $imageHelper->resize('upload/image1.jpg', 'thumb/image1', [
     ImageHelper::OPTION_WIDTH => 300
 ]);
 ```
+
+## Required
+This image helper use GD library. So, ensure you was install and turn on the GD library on your web server.
