@@ -1,0 +1,7 @@
+{
+    "name": "dinhnam2901/image-helper",
+    "description": "Single class PHP for image helper with main feature as resize image, getting information of image file",
+    "require": {
+        "php": ">=7.4"
+    }
+}
