@@ -1,6 +1,23 @@
 {
     "name": "dinhnam2901/image-helper",
     "description": "Single class PHP for image helper with main feature as resize image, getting information of image file",
+    "keywords": [
+        "image",
+        "helper",
+        "php",
+        "resize image",
+        "simple class"
+    ],
+    "homepage": "https://github.com/dinhnam2901/image-helperr",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyen Dinh Nam",
+            "email": "dinhnam2901@gmail.com",
+            "homepage": "https://websomot.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": ">=7.4"
     }
