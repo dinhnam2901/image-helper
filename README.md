@@ -1,4 +1,4 @@
-# image-helper
+# Image helper
 Single class PHP for image helper.  
 Main feature:
 - Resize the image.
